@@ -1,0 +1,19 @@
+{
+  "O": 0,
+  "B-PREP": 1,
+  "I-PREP": 2,
+  "B-STEP": 3,
+  "I-STEP": 4,
+  "B-CONDITION": 5,
+  "I-CONDITION": 6,
+  "B-PURPOSE": 7,
+  "I-PURPOSE": 8,
+  "B-CORRECTION": 9,
+  "I-CORRECTION": 10,
+  "B-TIP": 11,
+  "I-TIP": 12,
+  "B-SERVING": 13,
+  "I-SERVING": 14,
+  "B-META": 15,
+  "I-META": 16
+}

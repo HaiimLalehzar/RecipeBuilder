@@ -1,0 +1,21 @@
+{
+  "0": "O",
+  "1": "B-PREP",
+  "2": "I-PREP",
+  "3": "B-STEP",
+  "4": "I-STEP",
+  "5": "B-CONDITION",
+  "6": "I-CONDITION",
+  "7": "B-PURPOSE",
+  "8": "I-PURPOSE",
+  "9": "B-CORRECTION",
+  "10": "I-CORRECTION",
+  "11": "B-TIP",
+  "12": "I-TIP",
+  "13": "B-SERVING",
+  "14": "I-SERVING",
+  "15": "B-META",
+  "16": "I-META"
+}
+
+

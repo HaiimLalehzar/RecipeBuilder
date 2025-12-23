@@ -1,0 +1,23 @@
+{
+  "0": "O",
+  "1": "B-INGREDIENT",
+  "2": "I-INGREDIENT",
+  "3": "B-DESCRIPTOR",
+  "4": "I-DESCRIPTOR",
+  "5": "B-ACTION",
+  "6": "I-ACTION",
+  "7": "B-UNIT",
+  "8": "I-UNIT",
+  "9": "B-TIMEUNIT",
+  "10": "I-TIMEUNIT",
+  "11": "B-QUANTITY",
+  "12": "I-QUANTITY",
+  "13": "B-TOOL",
+  "14": "I-TOOL",
+  "15": "B-CONNECTOR",
+  "16": "I-CONNECTOR",
+  "17": "B-MODIFIER",
+  "18": "I-MODIFIER",
+  "19": "B-FILLER",
+  "20": "I-FILLER"
+}
