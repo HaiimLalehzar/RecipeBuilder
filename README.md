@@ -9,7 +9,7 @@ RecipeBuilder is an Android app that converts cooking audio/video into a structu
 - Saves structured recipes locally
 
 ## Download (APK)
-- [Download APK](./apk/RecipeBuilder-debug.apk)
+- [Download APK](./release/RecipeBuilder-release.apk)
 
 ## Documentation
 - [System & Technical Design](./docs/SYSTEM_DESIGN.md)
